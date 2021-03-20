@@ -15,6 +15,22 @@ I talk about:
 __init__
 ```
 
+### Stacks & Techs
+
+* Python
+* HTML
+* CSS
+
+
+### Workflow
+
+* VSCode
+* PyCharm
+* Anaconda
+* Jupyter Notebook
+* GitHub Desktop
+
+
 ### Highlight
 
 I started a journey to become a AI engineering in 2021.
