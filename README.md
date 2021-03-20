@@ -17,18 +17,18 @@ __init__
 
 ### Stacks & Techs
 
-* Python
+* [Python](https://www.python.org/)
 * HTML
 * CSS
 
 
 ### Workflow
 
-* VSCode
-* PyCharm
-* Anaconda
-* Jupyter Notebook
-* GitHub Desktop
+* [VSCode](https://code.visualstudio.com/)
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Anaconda](https://www.anaconda.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [GitHub Desktop](https://desktop.github.com/)
 
 
 ### Highlight
