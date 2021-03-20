@@ -25,6 +25,10 @@ I started a journey to become a AI engineering in 2021.
 For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Linkedin](https://www.linkedin.com/in/fabiofistarol/)
 
 
+#### Live view
+
+If you are on GitHub, [click here](https://fistadev.github.io/) to see it live.
+
 <!-- ```markdown
 Syntax highlighted code block
 
