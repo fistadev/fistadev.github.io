@@ -21,8 +21,8 @@ __init__
 * HTML
 * CSS
 * json
-* Numpy
-* Pandas
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * BeautifulSoup
 * Web Scraping
 
@@ -34,6 +34,7 @@ __init__
 * [Anaconda](https://www.anaconda.com/)
 * [Jupyter Notebook](https://jupyter.org/)
 * [GitHub Desktop](https://desktop.github.com/)
+* [DeepNote](https://deepnote.com/)
 
 
 ### Highlight
