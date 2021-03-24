@@ -20,6 +20,11 @@ __init__
 * [Python](https://www.python.org/)
 * HTML
 * CSS
+* json
+* Numpy
+* Pandas
+* BeautifulSoup
+* Web Scraping
 
 
 ### Workflow
