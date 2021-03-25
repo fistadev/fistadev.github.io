@@ -4,10 +4,10 @@ Here I post updates of my journey as developer and AI Engineering.
 
 ---
 
-I talk about:
+I study:
 
-* Git and GitHub
 * Python
+* Git and GitHub
 * AI
 * Machine Learning
 
@@ -15,7 +15,7 @@ I talk about:
 __init__
 ```
 
-### Stacks & Techs
+### Stacks / Techs / Skills
 
 * [Python](https://www.python.org/)
 * HTML
@@ -37,9 +37,18 @@ __init__
 * [DeepNote](https://deepnote.com/)
 
 
+### NoCode Stuff
+
+* [Mailchimp](https://mailchimp.com/)
+* [Webflow](https://webflow.com/)
+* [Typeform](https://www.typeform.com/)
+* [Zapier](https://zapier.com/)
+* [Linktree](https://linktr.ee/)
+
+
 ### Highlight
 
-I started a journey to become a AI engineering in 2021.
+I started a journey to become a AI engineering in the beginning of 2021.
 
 
 ### Let's talk
