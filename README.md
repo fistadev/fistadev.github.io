@@ -24,6 +24,7 @@ __init__
 * SQL
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+* Matplotlib
 * BeautifulSoup
 * Web Scraping
 
