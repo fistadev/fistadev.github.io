@@ -8,8 +8,8 @@ I study:
 
 * Python
 * Git and GitHub
-* AI
 * Machine Learning
+*  AI
 
 ```
 __init__
@@ -60,6 +60,7 @@ I started a journey to become a AI engineering in the beginning of 2021.
 ### Live Streamlit Projects
 
 * [GoodReads - Web Scraping Data Project](https://share.streamlit.io/dumbledore-on-strive/goodreads-app)
+* [StarWars - Machine Learning Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py)
 
 
 ### Let's talk
