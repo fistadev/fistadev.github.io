@@ -25,8 +25,10 @@ __init__
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib
+* Seaborn
 * BeautifulSoup
 * Web Scraping
+* SciKit-Learn
 
 
 
@@ -53,6 +55,11 @@ __init__
 ### Highlight
 
 I started a journey to become a AI engineering in the beginning of 2021.
+
+
+### Live Streamlit Projects
+
+* [GoodReads - Web Scraping Data Project](https://share.streamlit.io/dumbledore-on-strive/goodreads-app)
 
 
 ### Let's talk
