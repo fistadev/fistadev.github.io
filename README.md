@@ -9,11 +9,18 @@ I study:
 * Python
 * Git and GitHub
 * Machine Learning
-*  AI
+* Feature Engineering
+* AI
 
 ```
 __init__
 ```
+
+Live projects with Streamlit: 
+* [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
+* [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
+* [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models
+
 
 ### Stacks / Techs / Skills
 
@@ -26,8 +33,8 @@ __init__
 * [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib
 * Seaborn
-* BeautifulSoup
 * Web Scraping
+* BeautifulSoup
 * SciKit-Learn
 
 
