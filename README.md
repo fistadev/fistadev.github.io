@@ -1,10 +1,14 @@
-## Welcome to my GitHub Pages
+## I am Fabio
 
-Here I post updates of my journey as developer and AI Engineering.
+Here I post updates of my journey as Web Developer & AI Engineering.
 
 ---
 
-I study:
+Currently working with:
+* Belief Wedding Creators
+* Creadea
+
+---
 
 * Python
 * Git and GitHub
@@ -20,6 +24,7 @@ Live projects with Streamlit:
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
 * [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
 * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models
+* [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
 
 
 ### Stacks / Techs / Skills
@@ -63,11 +68,6 @@ Live projects with Streamlit:
 
 I started a journey to become a AI engineering in the beginning of 2021.
 
-
-### Live Streamlit Projects
-
-* [GoodReads - Web Scraping Data Project](https://share.streamlit.io/dumbledore-on-strive/goodreads-app)
-* [StarWars - Machine Learning Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py)
 
 
 ### Let's talk
