@@ -29,6 +29,21 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 
 
 
+### Stacks / Techs / Skills
+
+* [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+* Matplotlib / Seaborn
+* SciKit-Learn / Pytorch
+* Flask / Streamlit / Django
+* HTML / CSS / Bootstrap
+
+
+### Workflow
+
+* [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
+
+
 <!-- ### NoCode Stuff
 
 * Email Marketing: [Mailchimp](https://mailchimp.com/)
