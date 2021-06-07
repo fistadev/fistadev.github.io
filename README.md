@@ -36,6 +36,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * SciKit-Learn / Pytorch
 * Flask / Streamlit / Django
 * HTML / CSS / Bootstrap
+* OpenCV 
 
 
 ### Workflow
