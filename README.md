@@ -15,7 +15,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 
 
 ### Currently working with:
-* [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning web and data (email and ads)
+* [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning for web and data (email and ads)
 * [Two + Us](https://twoplususweddings.com/) - non-profit co-creator 
 * Creadea - currently planning company website 
 
@@ -24,8 +24,8 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 ### Live projects with Streamlit: 
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
 * [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
-* [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
+<!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
 
 
