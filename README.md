@@ -11,6 +11,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * Data Analysis
 * Machine Learning
 * Deep Learning
+* Computer Vision
 ```
 
 
