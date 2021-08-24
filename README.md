@@ -15,14 +15,17 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 ```
 
 
-### Currently working with:
-* [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning for web and data (email and ads)
-* [Two + Us](https://twoplususweddings.com/) - non-profit co-creator 
-* Creadea - currently planning company website 
+### 🗂 Currently working with:
+* <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - managing and planning web and data (email and ads)
+* <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit co-creator 
+* <a href="https://giovanaduailibe.com/" target="_blank">Giovana Duailibe</a> - managing and planning web and data (email and ads) 
+* Creadea - currently planning the company website 
+* AI MASHING
 
 
 
-### Live projects with Streamlit: 
+
+### 🖥 Live projects with Streamlit: 
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
 * [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
@@ -30,20 +33,16 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 
 
 
-### Stacks / Techs / Skills
+### 🛠 Stacks / Techs / Skills
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
-* SciKit-Learn / Pytorch
-* Flask / Streamlit / Django
-* HTML / CSS / Bootstrap
-* OpenCV 
-
-
-### Workflow
-
+* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/) / [Streamlit](https://streamlit.io/) / [Django](https://www.djangoproject.com/)
+* HTML / CSS / [Bootstrap](https://getbootstrap.com/)
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
+
 
 
 <!-- ### NoCode Stuff
