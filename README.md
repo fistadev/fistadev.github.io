@@ -18,16 +18,19 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - web manager and data scientist (website, email and ads)
 * <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit project co-creator 
 * <a href="https://giovanaduailibe.com/" target="_blank">Giovana Duailibe</a> - managing and planning web and data (email and ads) 
-* Creadea - currently planning the company website 
+* Creadea (Germany) - currently planning the company website 
 * AI MASHING
 
 
 
-
-### 🖥 Live projects with Streamlit: 
-* [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
-* [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
-* [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
+### 🖥 Live projects: 
+* <a href="https://www.fabiofistarol.com/" target="_blank">Portofolio</a> - Django / PostgreSQL / Heroku
+* <a href="https://www.parlock.herokuapp.com.com/" target="_blank">Parlock</a> - Flask / Pytorch / Scikit-Learn / Pandas / Heroku
+* <a href="https://share.streamlit.io/dumbledore-on-strive/goodreads-app" target="_blank">Goodreads</a> - Streamlit / Webscraping / Data Analysis
+* <a href="https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py" target="_blank">Trackts App</a> - tracking app that predictions the transportation (Streamlit)
+* <a href="https://share.streamlit.io/fistadev/starwars_data_project/main/app.py" target="_blank">Star Wars Challenge</a> - Streamlit / Data Exploration
+* Fashion Mnist App - under construction
+* EmotioNow App - under construction
 <!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
 
@@ -39,7 +42,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * Matplotlib / Seaborn
 * [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/) / [Spark](https://spark.apache.org/)
 * [Django](https://www.djangoproject.com/) / [Flask](https://flask.palletsprojects.com/en/2.0.x/) / [Streamlit](https://streamlit.io/) 
-* HTML / CSS / [Bootstrap](https://getbootstrap.com/)
+* HTML / CSS / [Bootstrap](https://getbootstrap.com/) / SQL
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
 
