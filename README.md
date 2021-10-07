@@ -40,7 +40,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
-* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/) / [Spark](https://spark.apache.org/)
+* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/) / [NLTK](https://www.nltk.org/) / [Spark](https://spark.apache.org/)
 * [Django](https://www.djangoproject.com/) / [Flask](https://flask.palletsprojects.com/en/2.0.x/) / [Streamlit](https://streamlit.io/) 
 * HTML / CSS / [Bootstrap](https://getbootstrap.com/) / SQL / PostgreSQL / Docker
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
